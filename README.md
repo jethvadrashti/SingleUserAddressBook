@@ -20,3 +20,10 @@
     - Contact Categeory :- In which user can able to add,Update,delete and also see the ContactCategory like Student,Software Developer,etc.. in the Grid View Formate. For the Insert, Update and Delete operations are Performe by using the SQL Queries which are written using the Stored Procedure.
     - Contact  :- All the details of the Contact like, Contact Name, Select Country,State,City fro the dropdown menu which are fill by the dependecy column like first  user need to select the CountryName,then According to the CountryName ahead added by user in the Country Table all are display in the dropdown menu.Then after according to choose the country Name Statename dropdown menu will be filled, similaryly for State to City. then Select the BloodGroup and Contact Category Select from the dropdown list. Then after add the  LinkedIn ID, Facebook ID, etc... In which user can able to add,Update,delete and also see the all the above details in the Grid View Formate. For the Insert, Update and Delete operations are Performe by using the SQL Queries which are written using the Stored Procedure.  
     
+   # Disadvange of Single User AddressBook
+   
+   -> Disadvange of the Single User AddressBook is the Privacy and Security of the Contact deatils. Because all the users which have the account see the all details of other           users add contact details as well. So, any user can see the all deatils of the their own added data as well as other users's Contact details.
+
+   -> For Solution of this Problem I designed the Multi User Address Book in which every User can see the data of thier own added. Not able to see the data of other users's           added. So, this solution is maintain the Privacy and Security of all users's added data.
+    
+    
